@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi there this is DIVYANSHU MISHRA
+🔭 I’m currently working on EXAM QUEST<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  AWS Cloud Developer - Associate<br>💬 Ask me about DSA & CLOUD<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
