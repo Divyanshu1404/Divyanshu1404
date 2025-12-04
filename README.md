@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there this is <b>DIVYANSHU MISHRA</b><br>
-🔭 I’m currently working on EXAM QUEST<br>🤝 I’m looking for help with <b>AWS EC2</b> <br>🌱 I’m currently learning  <b>AWS Cloud Developer - Associate</b><br>💬 Ask me about <b>DSA & CLOUD<b/><br>⚡ Fun fact
+🔭 I’m currently working on EXAM QUEST<br>🤝 I’m looking for help with <b>AWS EC2</b> <br>🌱 I’m currently learning  <b>AWS Cloud Practitioner</b><br>💬 Ask me about <b>DSA & CLOUD<b/><br>⚡ Fun fact
 
 
 ## 🌐 Socials:
